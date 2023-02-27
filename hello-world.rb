@@ -1,2 +1,2 @@
 # One line
-puts "Hello World!"
+puts "\n\nHello World.\nWelcome to my first Ruby program\n\n"
